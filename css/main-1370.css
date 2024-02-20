@@ -1,0 +1,216 @@
+@charset "UTF-8";
+
+/* COMMON - S */
+/* COMMON - E */
+
+/* HEADER - S */
+.header {
+  height: 55px;
+}
+
+.logo {
+  display: none;
+}
+
+.utility-content-wrap {
+  display: flex;
+}
+
+.h-wrap-1 .inner {
+  height: 55px;
+  padding: 0 25px;
+}
+
+/* search-box - S */
+.search-box-wrap {
+  margin-left: 0;
+}
+.search-box-inner {
+  display: block;
+  height: 0;
+  padding: 0;
+  background-color: transparent;
+  line-height: 0;
+  font-size: 0;
+  border-radius: 20px;
+}
+.search-button {
+  padding: 0;
+}
+/* search-box - E */
+
+/* tnb - S */
+.tnb {
+  justify-content: flex-start;
+  align-items: normal;
+  height: 26px;
+  margin-right: 0;
+}
+/* user-button - S */
+.user-button-wrap {
+  display: none;
+}
+/* user-button - E */
+/* tnb - E */
+
+
+
+.h-wrap-2 {
+  display: none;
+}
+/* bottom-navi - S */
+.bottom-navi-wrap {
+  display: block;
+}
+/* bottom-navi - E */
+/* HEADER - E */
+
+/* MAIN - S */
+.tit-content-inner h2 {
+  font-size: 45px;
+}
+
+.tit-content-inner p {
+  font-size: 17px;
+}
+.benefit-banner-content {
+  top: 15%;
+  padding: 0 35% 0 5%;
+}
+.purchase-link {
+  margin: 30px -10px 0 0;
+}
+.benefit-banner-content-wrap h2 {
+  font-size: 30px;
+}
+
+.benefit-banner-content-wrap p {
+  font-size: 15px;
+}
+
+.benefit-banner-content-wrap ul li {
+  font-size: 12px;
+}
+
+.future-benefit-content-inner h2 {
+  font-size: 45px;
+}
+
+.future-benefit-content-inner p {
+  font-size: 17px;
+}
+
+.type-repair-tit-content-inner h2 {
+  font-size: 45px;
+}
+
+.type-repair-writing-tit h3 {
+  font-size: 26px;
+}
+
+.type-repair-writing-txt p {
+  font-size: 13px;
+}
+
+.check-benefits-tit-content-inner h2 {
+  font-size: 45px;
+}
+
+.require-li {
+  font-size: 11px;
+}
+
+.tac-link a {
+  font-size: 13px;
+}
+
+.utilization-pro-list-tab ul li .utilization-btn {
+  font-size: 17px;
+}
+
+.scp-difference-tit-content-inner h2 {
+  font-size: 45px;
+}
+
+.join-tit-content-inner h2 {
+  font-size: 45px;
+}
+
+.join-tit-content-inner p {
+  font-size: 17px;
+}
+
+.join-content-inner p {
+  font-size: 17px;
+}
+
+.join-content-inner .require-li {
+  font-size: 11px;
+}
+
+.utilization-tit-content-inner h2 {
+  font-size: 45px;
+}
+
+.utilization-tit-content-inner p {
+  font-size: 17px;
+}
+
+.atc-txt p {
+  font-size: 13px;
+}
+
+.call-center-txt h3 {
+  font-size: 30px;
+}
+
+.call-center-txt h4 {
+  font-size: 20px;
+}
+
+.imei-tit-content-inner h2 {
+  font-size: 45px;
+}
+
+.imei-tit-content-inner p {
+  font-size: 17px;
+}
+
+.imei-writing-tit h3 {
+  font-size: 17px;
+}
+
+.imei-writing-txt p {
+  font-size: 13px;
+}
+
+.pgfm-tit-content-inner h2 {
+  font-size: 45px;
+}
+
+.pgfm-writing-tit h3 {
+  font-size: 17px;
+}
+
+.detail-tit-content-inner h2 {
+  font-size: 45px;
+}
+
+.detail-tit-content-inner h3 {
+  font-size: 22px;
+}
+
+.detail-tit-content-inner p {
+  font-size: 17px;
+}
+/* MAIN - E */
+
+
+
+
+
+/* FOOTER - S */
+.link-box {
+  margin-left: 0;
+}
+/* FOOTER - E */

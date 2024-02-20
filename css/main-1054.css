@@ -1,0 +1,160 @@
+@charset "UTF-8";
+
+/* COMMON - S */
+/* COMMON - E */
+
+/* HEADER - S */
+/* HEADER - E */
+
+/* MAIN - S */
+.tit-content-inner h2 {
+  font-size: 35px;
+}
+
+.tit-content-inner p {
+  font-size: 14px;
+}
+.benefit-banner-content {
+  top: 10%;
+  padding: 0 31% 0 3%;
+}
+.purchase-link {
+  margin: 15px -10px 0 0;
+}
+.benefit-banner-content-wrap h2 {
+  padding-right: 0;
+  font-size: 25px;
+}
+
+.benefit-banner-content-wrap p {
+  font-size: 13px;
+}
+
+.benefit-banner-content-wrap ul {}
+
+.benefit-banner-content-wrap ul li {
+  font-size: 10px;
+}
+
+.future-benefit-content-inner h2 {
+  font-size: 35px;
+}
+
+.future-benefit-content-inner p {
+  font-size: 10px;
+}
+
+.type-repair-tit-content-inner h2 {
+  font-size: 35px;
+}
+
+.type-repair-writing-tit h3 {
+  font-size: 22px;
+}
+
+.type-repair-writing-txt p {
+  font-size: 11px;
+}
+
+.check-benefits-tit-content-inner h2 {
+  font-size: 35px;
+}
+
+.require-li {
+  font-size: 9px;
+}
+
+.tac-link a {
+  font-size: 11px;
+}
+
+.utilization-pro-list-tab ul li .utilization-btn {
+  font-size: 14px;
+}
+
+.scp-difference-tit-content-inner h2 {
+  font-size: 35px;
+}
+
+.join-tit-content-inner h2 {
+  font-size: 35px;
+}
+
+.join-tit-content-inner p {
+  font-size: 14px;
+}
+
+.join-content-inner p {
+  font-size: 14px;
+}
+
+.join-content-inner .require-li {
+  font-size: 9px;
+}
+
+.utilization-tit-content-inner h2 {
+  font-size: 35px;
+}
+
+.utilization-tit-content-inner p {
+  font-size: 14px;
+}
+
+.atc-txt p {
+  font-size: 10px;
+}
+
+.call-center-txt h3 {
+  font-size: 23px;
+}
+
+.call-center-txt h4 {
+  font-size: 16px;
+}
+
+.imei-tit-content-inner h2 {
+  font-size: 43px;
+}
+
+.imei-tit-content-inner p {
+  font-size: 14px;
+}
+
+.imei-writing-tit h3 {
+  font-size: 14px;
+}
+
+.imei-writing-txt p {
+  font-size: 10px;
+}
+
+.pgfm-tit-content-inner h2 {
+  font-size: 35px;
+}
+
+.pgfm-writing-tit h3 {
+  font-size: 14px;
+}
+
+.detail-tit-content-inner h2 {
+  font-size: 35px;
+}
+
+.detail-tit-content-inner h3 {
+  font-size: 22px;
+}
+
+.detail-tit-content-inner p {
+  font-size: 14px;
+}
+/* MAIN - E */
+
+
+
+
+
+/* FOOTER - S */
+.f-4 .inner {
+  align-items: end;
+}
+/* FOOTER - E */
