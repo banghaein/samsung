@@ -2399,7 +2399,7 @@ z
   width: 14px;
   height: 14px;
   margin: -3px 0 0 6px;
-  background: url(/img/icon-16-midium-link.svg) no-repeat;
+  background: url(/samsung/img/icon-16-midium-link.svg) no-repeat;
   vertical-align: middle;
 }
 
@@ -2665,7 +2665,7 @@ z
   right: 15px;
   width: 16px;
   height: 16px;
-  background: url(/img/icon-drop-up-pd.svg) no-repeat;
+  background: url(/samsung/img/icon-drop-up-pd.svg) no-repeat;
 }
 .droplist {
   display: none;
@@ -2733,27 +2733,27 @@ z
   height: 36px;
 }
 .facebook {
-  background: url(/img/icon-bold-social-facebook.svg) no-repeat;
+  background: url(/samsung/img/icon-bold-social-facebook.svg) no-repeat;
   background-size: 36px 36px;
 }
 .youtube {
-  background: url(/img/icon-bold-social-youtube.svg) no-repeat;
+  background: url(/samsung/img/icon-bold-social-youtube.svg) no-repeat;
   background-size: 36px 36px;
 }
 .instagram {
-  background: url(/img/icon-bold-social-instagram.svg) no-repeat;
+  background: url(/samsung/img/icon-bold-social-instagram.svg) no-repeat;
   background-size: 36px 36px;
 }
 .kakao-talk-plus-friend {
-  background: url(/img/icon-bold-social-kakaotalk.svg) no-repeat;
+  background: url(/samsung/img/icon-bold-social-kakaotalk.svg) no-repeat;
   background-size: 36px 36px;
 }
 .twitter {
-  background: url(/img/icon-bold-social-twitter.svg) no-repeat;
+  background: url(/samsung/img/icon-bold-social-twitter.svg) no-repeat;
   background-size: 36px 36px;
 }
 .share {
-  background: url(/img/icon-share.svg) no-repeat;
+  background: url(/samsung/img/icon-share.svg) no-repeat;
   background-size: 36px 36px;
 }
 
